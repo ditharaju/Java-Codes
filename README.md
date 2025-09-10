@@ -30,28 +30,30 @@ Open any .java file in your IDE (Eclipse, IntelliJ, VS Code, etc.)
 
 Compile and run:
 
+```bash
 javac FileName.java
 java FileName
+```
 
 ## 🤝 Contributing
 
 Contributions are welcome!
 
-Add more Java programs
+- Add more Java programs
 
-Improve explanations
+- Improve explanations
 
-Suggest better practices
+- Suggest better practices
 
 To contribute:
 
-Fork this repository
+- Fork this repository
 
-Create a new branch
+- Create a new branch
 
-Commit your changes
+- Commit your changes
 
-Open a pull request
+- Open a pull request
 
 ## 📝 License
 
