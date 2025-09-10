@@ -33,7 +33,7 @@ Compile and run:
 javac FileName.java
 java FileName
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -53,6 +53,6 @@ Commit your changes
 
 Open a pull request
 
-📝 License
+## 📝 License
 
 This project is open-source and available under the MIT License.
